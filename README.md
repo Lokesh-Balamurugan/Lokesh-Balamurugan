@@ -1,7 +1,8 @@
-# 💫 May the Force be with you, fellow padawan! <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/39.gif" width="30px">
+# May the Force be with you, fellow Padawan <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/39.gif" width="50px">
 
-<div align="center">
-  <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/starwars_gettyimages-510216640.jpg" alt="Star Wars themed banner">
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/starwars_gettyimages-510216640.jpg" alt="Star Wars banner" width="400px">
+  <img src="" alt="Description of second image" width="400px">
 </div>
 
 ## 🌌 About the Jedi Behind the Screen:
