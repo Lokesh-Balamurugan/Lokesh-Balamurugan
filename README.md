@@ -1,7 +1,7 @@
 # May the Force be with you, fellow Padawan <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/39.gif" width="50px">
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/starwars_gettyimages-510216640.jpg" alt="Star Wars banner" width="400px">
+  <img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/TITANS%20%22Doom%20Patrol%22%20Images%20Feature%20Our%20First%20Proper%20Look%20At%20DC%20Universe's%20Second%20Superhero%20Team.gif" alt="Star Wars banner" width="500px">
   <img src="" alt="Description of second image" width="400px">
 </div>
 
