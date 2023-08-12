@@ -9,7 +9,7 @@
 
 🪐 **Identity**: In this vast cosmos, I'm a grad student, a navigator constantly wandering through galaxies of knowledge. My current coordinates? The dynamic planet of data and science. With a ship that's adept at venturing into realms like machine learning, deep learning, AI, and image processing, my expedition never ceases at any moment.
 
-🚀 **Journey**: My initiation began at the esteemed academy on planet [unknown], where I unearthed the deep-seated enigmas of our ever-evolving technological universe. It was during these formative years that I discovered my destiny: to become a Jedi in the boundless expanse of data.
+<img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/830e0fdceaf364e4eb90d734f95dab7b.gif" width="30px"> **Journey**: My initiation began at the esteemed academy on planet [unknown], where I unearthed the deep-seated enigmas of our ever-evolving technological universe. It was during these formative years that I discovered my destiny: to become a Jedi in the boundless expanse of data.
 
 🎬 **Passions Beyond the Stars**: Beyond my academic pursuits, I'm a devout cinephile. I not only indulge in the art of movie-watching but also passionately pen down my musings about them. My fondness for storytelling runs so deep that I often find myself weaving narratives, drawing parallels between the enchanting world of tales and the logical realm of data analysis.
 
