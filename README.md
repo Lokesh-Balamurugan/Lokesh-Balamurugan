@@ -13,7 +13,7 @@
 
 🎬 **Passions Beyond the Stars**: Beyond my academic pursuits, I'm a devout cinephile. I not only indulge in the art of movie-watching but also passionately pen down my musings about them. My fondness for storytelling runs so deep that I often find myself weaving narratives, drawing parallels between the enchanting world of tales and the logical realm of data analysis.
 
-🔭 **Vision**: To me, data isn't merely numbers—it's my lightsaber. I'm captivated by its sheer power, the stories it tells, and the destinies it shapes. As I master its intricate dance, my aspiration is clear: to harness this power for the collective good, weaving tales of progress and maintaining the cosmic balance.
+<img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/darthvader_dribbble.gif" width="30px"> **Vision**: To me, data isn't merely numbers—it's my lightsaber. I'm captivated by its sheer power, the stories it tells, and the destinies it shapes. As I master its intricate dance, my aspiration is clear: to harness this power for the collective good, weaving tales of progress and maintaining the cosmic balance.
 
 🌠 **Mission**: A Jedi, by nature, is no stranger to challenges. With an indomitable spirit and an ardent desire to confront any adversity, my goal remains unwavering: to leverage my skills and guide every planetary system (or organization) towards realizing its zenith.
 
