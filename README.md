@@ -7,15 +7,7 @@
 
 ## 🌌 About the Jedi Within
 
-🪐 **Identity**: In this vast cosmos, I'm a graduate student immersed in the world of data science, with a keen interest in machine learning, deep learning, AI, and image processing. Anything data and innovation? Count me in.
-
-<img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/830e0fdceaf364e4eb90d734f95dab7b.gif" width="30px"> **Journey**: My academic path began at [RECron], where I developed a strong foundation in technology. It was there that I discovered my passion for deciphering complex data and transforming it into meaningful insights.
-
-<img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/giphy.gif" width="30px"> **Passions Beyond the Stars**: Outside the realm of data, I'm a movie enthusiast. I enjoy watching films and writing about them. Storytelling fascinates me, and I often find connections between crafting narratives and analyzing data—they both involve uncovering underlying themes and patterns.
-
-<img src="https://github.com/Lokesh-Balamurugan/Lokesh-Balamurugan/blob/main/darthvader_dribbble.gif" width="30px"> **Vision**: I see data as a powerful tool that can tell compelling stories and drive important decisions. My aim is to harness this power to make a positive impact and help shape a better future.
-
-🌠 **Mission**: A Jedi, by nature, is no stranger to challenges. I'm always ready to tackle new challenges and apply my skills to real-world problems. Whether collaborating with a team or working independently, I'm committed to contributing meaningfully and helping organizations achieve their goals.
+If you’re into Star Wars, love talking movies, or just wanna geek out over data, AI and analytics, hit me up. Always down to build something cool or just yap about the things we can’t shut up about.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the_1ast_jedi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lokeshvb) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/LokRox) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/daLastSkywalk3r) 
