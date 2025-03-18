@@ -39,3 +39,7 @@ If you’re into Star Wars, love talking movies, or just wanna geek out over dat
 If you're a fellow Jedi or even a curious traveler from another star system, seeking to collaborate or just exchange knowledge, feel free to send a transmission to my [holocron (email)](mailto:lokeshrox2000@gmail.com).
 
 ### May data be your guiding star! ⭐️
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
